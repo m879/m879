@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Meraj Ahmed</h1>
-<h3 align="center">A passionate full stack web development || Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m879" alt="m879" /> </p>
 
