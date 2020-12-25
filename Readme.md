@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning **React || Django ||DSA**
 
-- 👨‍💻 All of my projects are available at [http://merajahmed.live/](http://merajahmed.live/)
 
 - 📫 How to reach me **merajahmed2112@gmail.com**
 
