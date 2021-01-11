@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **React app**
 
-- 🌱 I’m currently learning **React || Django ||DSA**
+- 🌱 I’m currently learning **React || React native || Django || DSA**
 
 
 - 📫 How to reach me **merajahmed2112@gmail.com**
