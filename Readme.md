@@ -12,9 +12,9 @@
 
 - 📫 How to reach me **merajahmed2112@gmail.com**
 
-Undergoing react project<a href="https://m879.github.io/linkedinclone/">https://m879.github.io/linkedinclone/<a/>
+Undergoing react project - <a href="https://m879.github.io/linkedinclone/">https://m879.github.io/linkedinclone/<a/>
   
-Undergoing react project<a href="https://m879.github.io/dashboardproject/">https://m879.github.io/dashboardproject/<a/>
+Undergoing react project - <a href="https://m879.github.io/dashboardproject/">https://m879.github.io/dashboardproject/<a/>
 
 
 <h3 align="left">Languages and Tools:</h3>
