@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **React || React native || Django || DSA**
 
+- 🔭 Personal website = https://m879.github.io/merajahmed.github.io/
+
 
 - 📫 How to reach me **merajahmed2112@gmail.com**
 
