@@ -1,5 +1,5 @@
 # Hi there 👋,
-##I am Meraj Ahmed
+# I am Meraj Ahmed
 
 ### Undergraduate Computer Engineering Student
 
