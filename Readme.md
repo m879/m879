@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **React app**
 
-- 🌱 I’m currently learning **React || React native || Django || DSA**
+- 🌱 I’m currently learning **ReactJs || React Native || Django || DSA**
 
 - 🔭 Personal website = https://m879.github.io/merajahmed.github.io/
 
