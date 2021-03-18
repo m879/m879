@@ -10,7 +10,6 @@
 - 🔭 Personal website = https://m879.github.io/merajahmed.github.io/
 
 
-- 📫 How to reach me **merajahmed2112@gmail.com**
 
 Undergoing react project - <a href="https://m879.github.io/linkedinclone/">https://m879.github.io/linkedinclone/<a/>
   
