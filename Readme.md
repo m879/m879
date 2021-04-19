@@ -11,9 +11,6 @@
 
 
 
-Undergoing react project - <a href="https://m879.github.io/linkedinclone/">https://m879.github.io/linkedinclone/<a/>
-  
-Undergoing react project - <a href="https://m879.github.io/dashboardproject/">https://m879.github.io/dashboardproject/<a/>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/m879)  
 
