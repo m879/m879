@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **ReactJs || React Native || Django || DSA**
 
-- 🔭 Personal website = https://m879.github.io/merajahmed.github.io/
 
 
 
