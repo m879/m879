@@ -3,12 +3,6 @@
 # Hi there 👋,
 # I am Meraj Ahmed
 
-### Undergraduate Computer Engineering Student
-
-- 🔭 I’m currently working on **React app**
-
-- 🌱 I’m currently learning **ReactJs || React Native || Django || DSA**
-
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=m879&show_icons=true&count_private=true)     ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=m879)
 
